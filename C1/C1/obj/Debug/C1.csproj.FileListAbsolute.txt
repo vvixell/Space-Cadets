@@ -1,0 +1,7 @@
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\bin\Debug\C1.exe.config
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\bin\Debug\C1.exe
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\bin\Debug\C1.pdb
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\obj\Debug\C1.csprojAssemblyReference.cache
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\obj\Debug\C1.csproj.CoreCompileInputs.cache
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\obj\Debug\C1.exe
+C:\Users\vvixell\source\repos\vvixell\Space-Cadets\C1\C1\obj\Debug\C1.pdb
